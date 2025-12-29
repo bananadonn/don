@@ -9,7 +9,3 @@ Looking for internship positions where I can continue to learn from industry pro
 
 #Contact
 **Email:** reithdonald04@gmail.com
-
-
-#MSC
-config files for profile
